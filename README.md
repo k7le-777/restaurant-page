@@ -265,7 +265,7 @@ This was a **pivotal learning experience** that bridged the gap between basic Ja
 
 Interested in discussing web development or Webpack?
 
-- 💼 [LinkedIn](your-linkedin-url)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ryan-burns-rb/)
 - 🌐 [Portfolio](https://k7le-777.github.io/ryan-burns-portfolio-DEMO-/)
 - 📧 [Email](mailto:kyleburns7.kb@yahoo.com)
 - 💻 [More Projects](https://github.com/k7le-777)
